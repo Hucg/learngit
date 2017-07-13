@@ -1,1 +1,10 @@
-.gitignore id the first file to learn git
+.idea
+data
+*~
+*.pyc
+*.swp
+*.pot
+*.mo
+
+.DS_Store
+desktop.ini
